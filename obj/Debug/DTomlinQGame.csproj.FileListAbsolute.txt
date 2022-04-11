@@ -10,3 +10,15 @@ C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assig
 C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.pdb
 C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.csproj.AssemblyReference.cache
 C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.Game.resources
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\bin\Debug\DTomlinQGame.exe.config
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\bin\Debug\DTomlinQGame.exe
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\bin\Debug\DTomlinQGame.pdb
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.csproj.AssemblyReference.cache
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.Game.resources
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.ControlPanel.resources
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.LevelDesigner.resources
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.Properties.Resources.resources
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.csproj.GenerateResource.cache
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.csproj.CoreCompileInputs.cache
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.exe
+D:\Documents\School\Semester3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.pdb

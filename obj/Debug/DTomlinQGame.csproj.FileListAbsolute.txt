@@ -1,0 +1,12 @@
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\bin\Debug\DTomlinQGame.exe.config
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\bin\Debug\DTomlinQGame.exe
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\bin\Debug\DTomlinQGame.pdb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.ControlPanel.resources
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.LevelDesigner.resources
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.Properties.Resources.resources
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.csproj.GenerateResource.cache
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.csproj.CoreCompileInputs.cache
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.exe
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.pdb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.csproj.AssemblyReference.cache
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Assignment 2\DTomlinQGame\obj\Debug\DTomlinQGame.Game.resources

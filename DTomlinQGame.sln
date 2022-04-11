@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTomlinQGame", "DTomlinQGame.csproj", "{33A51C3A-2131-4AC9-B571-9E4CE8B384D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A51C3A-2131-4AC9-B571-9E4CE8B384D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A51C3A-2131-4AC9-B571-9E4CE8B384D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A51C3A-2131-4AC9-B571-9E4CE8B384D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A51C3A-2131-4AC9-B571-9E4CE8B384D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198C2CF2-B9D1-4F14-8A0F-AA8C0CBF0D54}
+	EndGlobalSection
+EndGlobal
